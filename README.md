@@ -5,7 +5,7 @@ step by step how to  create  exe  with Java project
 ## Step 1 
 Set the Maven in pom.xml
 
-'''
+```
 <build>
 		<plugins>
 			<plugin>
@@ -46,4 +46,4 @@ Set the Maven in pom.xml
 			</plugin>
 		</plugins>
 	</build>
-'''
+```

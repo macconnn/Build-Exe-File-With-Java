@@ -50,9 +50,9 @@ Set the Maven in pom.xml
 
 ## Step 2 
 
-After maven update profect , Run as maven install
-in the target folder should has the jar file in dependency
-type this cmd make sure the jar can work
+After maven update profect , Run as maven install  
+in the target folder should has the jar file in dependency  
+type this cmd make sure the jar can work  
 ```
 java -jar XXX.jar
 ```

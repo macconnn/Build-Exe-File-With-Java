@@ -52,7 +52,7 @@ Set the Maven in pom.xml
 
 After maven update profect , Run as maven install  
 in the target folder should has the jar file in dependency  
-type this cmd make sure the jar can work  
+type this cmd to make sure the jar can work  
 ```
 java -jar XXX.jar
 ```
@@ -60,4 +60,6 @@ java -jar XXX.jar
 
 ## Step 3
 
+Build a folder contain jar jre image(if you  need) using application to create exe i.e. exe4j , jsmooth , launch4j   
+important : all files should in the same folder
 
